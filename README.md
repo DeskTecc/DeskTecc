@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @DeskTecc, you can call me by Pedro or Tecc whichever you prefer
+- 👋 Hello, I’m @DeskTecc, you can call me by Tecc
 - 👀 I’m interested in help anyone with project
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Minecraft plugin projects
