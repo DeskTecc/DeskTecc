@@ -41,6 +41,7 @@ ________________________________________________________________________________
 <a href="https://www.jetbrains.com/idea/download/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100"></img></a>
 <a href="https://www.jetbrains.com/pycharm/download/"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="100" height="100"></img></a>
 <a href="https://notepad-plus-plus.org/downloads/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="100" height="100"></img></a>
+<a href="https://www.nano-editor.org/download.php"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1200px-Gnu-nano.svg.png" width="100" height="100"></img></a>
 </div>
 <br>
 
