@@ -36,8 +36,8 @@ ________________________________________________________________________________
 
 
 [![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show_icons=true&theme=dark&custom_title=Tecc%20GitHub%20Stats&card_width=100&line_height=20)](https://github.com/DeskTecc)
-<a href="https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="80" height="80"></img></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="80" height="80"></img>
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="80" height="80"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="80" height="80" background-color="white"></img>
+<a href="https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"></img></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50"></img>
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50" height="50"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="50" height="50" background-color="white"></img>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&card_width=100&theme=dark)](https://github.com/DeskTecc)
