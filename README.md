@@ -15,7 +15,7 @@ ________________________________________________________________________________
 <h4 align=center>I'm from Brazil my name is Mateus and i'm 19 years old developer, you can talk to me on Discord: Tech7#9983</h4>
 _________________________________________________________________________________________________________________________________________
 
-![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)
+![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)_________
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DeskTecc)](https://github.com/gazf/github-readme-twitter)
 
 <p align="center"><a href="https://twitter.com/DeskTecc">
@@ -44,5 +44,5 @@ ________________________________________________________________________________
 </div>
 <br>
 
-[![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show_icons=true&theme=dark&custom_title=Tecc%20GitHub%20Stats&card_width=100&line_height=20)](https://github.com/DeskTecc)______________________________________
+[![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show_icons=true&theme=dark&custom_title=Tecc%20GitHub%20Stats&card_width=100&line_height=20)](https://github.com/DeskTecc)________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&card_width=100&theme=dark)](https://github.com/DeskTecc)
