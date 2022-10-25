@@ -37,13 +37,12 @@ ________________________________________________________________________________
 
 <h1 align=center> :heart: My preferred IDE's </h1>
 <div align="center">
-<a href="https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"></img></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50"></img></a>
-<a><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50" height="50"></img></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="50" height="50"></img></a>
+<a href="https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100"></img></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100"></img></a>
+<a><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="100" height="100"></img></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="100" height="100"></img></a>
 </div>
 <br>
 
 [![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show_icons=true&theme=dark&custom_title=Tecc%20GitHub%20Stats&card_width=100&line_height=20)](https://github.com/DeskTecc)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&card_width=100&theme=dark)](https://github.com/DeskTecc)
