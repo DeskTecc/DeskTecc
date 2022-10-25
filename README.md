@@ -15,7 +15,7 @@ ________________________________________________________________________________
 <h4 align=center>I'm from Brazil my name is Mateus and i'm 19 years old developer, you can talk to me on Discord: Tech7#9983</h4>
 _________________________________________________________________________________________________________________________________________
 
-![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)_____________
+![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)______________________
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DeskTecc)](https://github.com/gazf/github-readme-twitter)
 
 <p align="center"><a href="https://twitter.com/DeskTecc">
