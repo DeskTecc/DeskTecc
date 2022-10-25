@@ -26,14 +26,14 @@ ________________________________________________________________________________
 
 
 <h1 align=center> :heart: My preferred programming Languages </h1>
-
+<div align=center>
+<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="100" height="100"></img></a>
+<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" width="100" height="100"></img></a>
+<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" width="100" height="100"></img></a>
+<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/php.svg" width="100" height="100"></img></a>
+</div>
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=DeskTecc&theme=onedark#center)](https://github.com/DeskTecc) -->
 <br>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php" />
-  </a>
-</p>
 
 <h1 align=center> :heart: My preferred IDE's </h1>
 <div align="center">
@@ -44,5 +44,5 @@ ________________________________________________________________________________
 </div>
 <br>
 
-[![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show_icons=true&theme=dark&custom_title=Tecc%20GitHub%20Stats&card_width=100&line_height=20)](https://github.com/DeskTecc)
+[![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show_icons=true&theme=dark&custom_title=Tecc%20GitHub%20Stats&card_width=100&line_height=20)](https://github.com/DeskTecc)______________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&card_width=100&theme=dark)](https://github.com/DeskTecc)
