@@ -1,4 +1,4 @@
-[![Tecc](header.png)](github.com/DeskTecc)
+[![Tecc](header.png)](https://github.com/DeskTecc)
 _________________________________________________________________________________________________
  <h1 align=center> :blush: My Social Media </h1>
 
@@ -15,8 +15,8 @@ ________________________________________________________________________________
 <h4 align=center>I'm from Brazil my name is Mateus and i'm 19 years old developer, you can talk to me on Discord: Tech7#9983</h4>
 _________________________________________________________________________________________________________________________________________
 
-![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)______________________
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DeskTecc)](https://github.com/gazf/github-readme-twitter)
+[![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)](https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os)______________________
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DeskTecc)](https://twitter.com/DeskTecc)
 
 <p align="center"><a href="https://twitter.com/DeskTecc">
 <img src="https://gifdb.com/images/high/anime-boy-waving-hello-offsxsk3obu7ngkt.gif" width="300px"></img></a></p>
@@ -27,20 +27,20 @@ ________________________________________________________________________________
 
 <h1 align=center> :heart: My preferred programming Languages </h1>
 <div align=center>
-<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="100" height="100"></img></a>
-<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" width="100" height="100"></img></a>
-<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" width="100" height="100"></img></a>
-<a><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/php.svg" width="100" height="100"></img></a>
+<a href="https://www.python.org/downloads/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="100" height="100"></img></a>
+<a href="https://www.java.com/en/download/manual.jsp"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" width="100" height="100"></img></a>
+<a href="https://code.visualstudio.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" width="100" height="100"></img></a>
+<a href="https://www.php.net/downloads.php"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/php.svg" width="100" height="100"></img></a>
 </div>
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=DeskTecc&theme=onedark#center)](https://github.com/DeskTecc) -->
 <br>
 
 <h1 align=center> :heart: My preferred IDE's </h1>
 <div align="center">
-<a href="https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100"></img></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100"></img></a>
-<a><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="100" height="100"></img></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="100" height="100"></img></a>
+<a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100"></img></a>
+<a href="https://www.jetbrains.com/idea/download/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100"></img></a>
+<a href="https://www.jetbrains.com/pycharm/download/"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="100" height="100"></img></a>
+<a href="https://notepad-plus-plus.org/downloads/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="100" height="100"></img></a>
 </div>
 <br>
 
