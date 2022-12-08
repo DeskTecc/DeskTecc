@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 
 
-<h1 align=center> :heart: My preferred programming Languages </h1>
+<h1 align=center> :heart: My preferred Programming Languages </h1>
 <div align=center>
 <a href="https://www.python.org/downloads/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="100" height="100"></img></a>
 <a href="https://www.java.com/en/download/manual.jsp"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" width="100" height="100"></img></a>
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=DeskTecc&theme=onedark#center)](https://github.com/DeskTecc) -->
 <br>
 
-<h1 align=center> :heart: My preferred IDE's and Text Editors </h1>
+<h1 align=center> :heart: My preferred IDE's and Text editors </h1>
 <div align="center">
 <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100"></img></a>
 <a href="https://www.jetbrains.com/idea/download/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100"></img></a>
