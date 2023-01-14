@@ -45,6 +45,6 @@ ________________________________________________________________________________
 </div>
 <br>
 
-[![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show_icons=true&theme=dark&custom_title=Tecc%20GitHub%20Stats&card_width=100&line_height=20)](https://github.com/DeskTecc)
+[![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&card_width=100&theme=dark)](https://github.com/DeskTecc)
 <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="250"></img>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&card_width=100&theme=dark)](https://github.com/DeskTecc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&theme=dark&card_width=100)](https://github.com/DeskTecc)
