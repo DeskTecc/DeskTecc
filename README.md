@@ -15,10 +15,10 @@ ________________________________________________________________________________
 <h4 align=center>I'm from Brazil my name is Mateus and i'm 19 years old developer, you can talk to me on Discord: Tech7#9983</h4>
 _________________________________________________________________________________________________________________________________________
 
-[![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)](https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os)______________________
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DeskTecc)](https://twitter.com/DeskTecc)
+[![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)](https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os)
+<!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DeskTecc)](https://twitter.com/DeskTecc) -->
 
-<p align="center"><a href="https://twitter.com/DeskTecc">
+<p align="start"><a href="https://twitter.com/DeskTecc"> 
 <img src="https://gifdb.com/images/high/anime-boy-waving-hello-offsxsk3obu7ngkt.gif" width="300px"></img></a></p>
 <!-- <a href="https://github.com/DeskTecc">
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250"></img></a>  -->
