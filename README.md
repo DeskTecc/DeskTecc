@@ -23,10 +23,9 @@ ________________________________________________________________________________
 <!-- <a href="https://github.com/DeskTecc">
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250"></img></a>  -->
 
-
-
 <h1 align=center> :heart: My preferred Programming Languages </h1>
 <div align=center>
+<a href="https://www.rust-lang.org/tools/install"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/rust.svg" width="100" height="100"></img></a>
 <a href="https://www.python.org/downloads/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg" width="100" height="100"></img></a>
 <a href="https://www.java.com/en/download/manual.jsp"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" width="100" height="100"></img></a>
 <a href="https://code.visualstudio.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg" width="100" height="100"></img></a>
