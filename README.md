@@ -49,5 +49,6 @@ ________________________________________________________________________________
 
 [![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&card_width=100&theme=dark)](https://github.com/DeskTecc)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&theme=dark&card_width=100)](https://github.com/DeskTecc)
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="250"></img>
-> _**Me when i forgot a**_ ";"
+<div align="center">
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="250"></img><h2><strong><i>Me when i forgot a ";"</i></strong></h2>
+</div>
