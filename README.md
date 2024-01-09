@@ -16,7 +16,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
 
 [![Spotify recents](https://spotify-recently-played-readme.vercel.app/api?user=ux9ly0c2abg7fkh6gawphv3os)](https://open.spotify.com/user/ux9ly0c2abg7fkh6gawphv3os)
-....................................................
+.....................
 <img src="https://gifdb.com/images/high/anime-boy-waving-hello-offsxsk3obu7ngkt.gif" width="325px"></img>
 
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DeskTecc)](https://twitter.com/DeskTecc) -->
