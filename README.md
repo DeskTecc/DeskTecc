@@ -35,7 +35,7 @@ ________________________________________________________________________________
 </div>
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=DeskTecc&theme=onedark#center)](https://github.com/DeskTecc) -->
 <br>
-
+<!--
 <h1 align=center> :heart: My preferred IDE's and Text editors </h1>
 <div align="center">
 <a href="https://www.vim.org/download.php"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="100" height="100"></img></a>
@@ -43,11 +43,12 @@ ________________________________________________________________________________
 <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="100" height="100"></img></a>
 <a href="https://notepad-plus-plus.org/downloads/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="100" height="100"></img></a>
 <a href="https://www.nano-editor.org/download.php"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Gnu-nano.svg" width="100" height="100"></img></a>
-</div>
+</div> -->
 <br>
 
+<!--
 [![DeskTecc GitHub stats](https://github-readme-stats.vercel.app/api?username=DeskTecc&show=reviews&theme=dark)](https://github.com/DeskTecc)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&langs_count=4&layout=donut&theme=dark)](https://github.com/DeskTecc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeskTecc&langs_count=4&layout=donut&theme=dark)](https://github.com/DeskTecc) -->
 <div align="center">
 <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="250"></img><h2><strong><i>Me when i forgot a ";"</i></strong></h2>
 </div>
